@@ -1,0 +1,5 @@
+com\gilbert\inventoryservice\repository\InventoryRepository.class
+com\gilbert\inventoryservice\service\InventoryService.class
+com\gilbert\inventoryservice\controller\InventoryController.class
+com\gilbert\inventoryservice\InventoryServiceApplication.class
+com\gilbert\inventoryservice\model\Inventory.class

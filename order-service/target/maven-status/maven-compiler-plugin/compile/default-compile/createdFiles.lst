@@ -1,0 +1,12 @@
+com\gilbert\orderservice\dto\OrderLineItemsDto$OrderLineItemsDtoBuilder.class
+com\gilbert\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\gilbert\orderservice\model\Order$OrderBuilder.class
+com\gilbert\orderservice\OrderServiceApplication.class
+com\gilbert\orderservice\service\OrderService.class
+com\gilbert\orderservice\controller\OrderController.class
+com\gilbert\orderservice\dto\OrderLineItemsDto.class
+com\gilbert\orderservice\repository\OrderRepository.class
+com\gilbert\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\gilbert\orderservice\model\Order.class
+com\gilbert\orderservice\model\OrderLineItems.class
+com\gilbert\orderservice\dto\OrderRequest.class
